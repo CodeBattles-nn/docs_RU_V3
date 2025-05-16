@@ -6,7 +6,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Для входа в систему учителя введите данные
@@ -22,27 +22,27 @@
 
 ### Создание соревнования
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Нажмите на кнопку добавить</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Нажмите на кнопку добавить</p></figcaption></figure>
 
 Перейдите в настройки созданного соревнования
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Добавление пользователей
 
 Перейдите во вкладку `управление пользователями` -> `Добавить`
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Обратите внимание, что каждый пользователь на новой строке
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 После добавление пользователей их будет видно в разделе управление пользователями, их фамилии, логины и пароли.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,15 +50,15 @@
 
 > Вернитесь к разделу настройки соревнования
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Нажмите на  <mark style="background-color:blue;">посмотреть все задачи</mark>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 При клике на название можно открыть предпросмотр задачи
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы добавить задачу в соревнование, введите ее ID и Букву, которая будет присвоена в соревновании
 
@@ -71,7 +71,7 @@
 * <mark style="color:red;">A, D, E -> Нельзя</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Задачи добавлены!**
 

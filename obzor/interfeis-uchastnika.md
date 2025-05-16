@@ -1,17 +1,17 @@
 # Интерфейс участника
 
-<figure><img src="../.gitbook/assets/u_login_page.png" alt=""><figcaption><p>Страница входа</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Страница входа</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/u_problems.png" alt=""><figcaption><p>Задачи</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Соревнования участника</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/u_editor_page.png" alt=""><figcaption><p>Отправить решение</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Задачи сореванования</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>Ошибка подключения</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Просмотр задачи 1</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Обзор задачи</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Просмотр задачи 2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Положение</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Посылки участника</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Просмотр посылок</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Рейтинг соревнования</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Статусы выполнения</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Статусы выполнения тестов</p></figcaption></figure>
