@@ -10,6 +10,12 @@
   * [Чекеры](obzor/interfeis-administratora/chekery.md)
   * [Соревнования](obzor/interfeis-administratora/sorevnovaniya.md)
 
+## Настройка и установка системы
+
+* [Установка](nastroika-i-ustanovka-sistemy/ustanovka/README.md)
+  * [Локальная установка](nastroika-i-ustanovka-sistemy/ustanovka/lokalnaya-ustanovka.md)
+  * [Production установка](nastroika-i-ustanovka-sistemy/ustanovka/production-ustanovka.md)
+
 ## Установка
 
 * [Установка](ustanovka/ustanovka.md)
@@ -30,16 +36,28 @@
   * [Импорт готовой задачи](svoe-sorevnovanie/podgotovka-zadach/import-gotovoi-zadachi.md)
 * [Создание соревнования](svoe-sorevnovanie/sozdanie-sorevnovaniya.md)
 
-## Backend API
+## API
 
-* [Введение в API](backend-api/vvedenie-v-api.md)
-* ```yaml
-  type: builtin:openapi
-  props:
-    models: true
-  dependencies:
-    spec:
-      ref:
-        kind: openapi
-        spec: doctorixx-api
-  ```
+* [Введение в API](api/vvedenie-v-api.md)
+* [Backend](api/backend/README.md)
+  * ```yaml
+    type: builtin:openapi
+    props:
+      models: true
+    dependencies:
+      spec:
+        ref:
+          kind: openapi
+          spec: doctorixx-api
+    ```
+* [Checker API](api/checker-api/README.md)
+  * ```yaml
+    type: builtin:openapi
+    props:
+      models: false
+    dependencies:
+      spec:
+        ref:
+          kind: openapi
+          spec: codebattles-checker-api
+    ```
