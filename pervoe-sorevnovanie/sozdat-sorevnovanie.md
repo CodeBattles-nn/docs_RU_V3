@@ -6,7 +6,7 @@
 {% endstep %}
 
 {% step %}
-### [Добавьте задачи](broken-reference)
+### [Добавьте задачи](../instrukcii/zadachi/dobavit-zadachu.md)
 {% endstep %}
 
 {% step %}
@@ -21,3 +21,4 @@
 ### [Добавьте участников](../instrukcii/sorevnovanie/redaktirovanie-polzovatelei-sorevnovaniya.md)
 {% endstep %}
 {% endstepper %}
+
