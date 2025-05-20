@@ -49,7 +49,7 @@
 ## Как работает система
 
 * [Архитектура](kak-rabotaet-sistema/arkhitektura.md)
-* [Production Архитектура](kak-rabotaet-sistema/production-arkhitektura.md)
+* [Безопасность](kak-rabotaet-sistema/bezopasnost.md)
 
 ## Свое соревнование
 
