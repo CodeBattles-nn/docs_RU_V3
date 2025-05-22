@@ -2,6 +2,8 @@
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Страница входа</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption><p>Страница профиля</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Соревнования участника</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Задачи сореванования</p></figcaption></figure>
