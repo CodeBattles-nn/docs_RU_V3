@@ -2,7 +2,7 @@
 
 {% stepper %}
 {% step %}
-### [Создайте соревнование](sozdat-sorevnovanie.md)
+### [Создайте соревнование](../instrukcii/sorevnovanie/sozdanie-sorevnovaniya.md)
 {% endstep %}
 
 {% step %}
