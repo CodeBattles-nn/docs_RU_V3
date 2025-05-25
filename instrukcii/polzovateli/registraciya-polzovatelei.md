@@ -1,19 +1,27 @@
 # Регистрация пользователей
 
-К сожалению на текущем моменте добавление пользователей в систему происходит только по API.
+{% stepper %}
+{% step %}
+### Перейтите в панель администратора
 
-Ниже представлены методы API для управление пользователями&#x20;
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-***
+Нажмите на кнопку <mark style="color:yellow;">**Пользователи**</mark>
+{% endstep %}
 
-{% openapi-operation spec="doctorixx-api" path="/api/users" method="post" %}
-[Broken link](broken-reference)
-{% endopenapi-operation %}
+{% step %}
+### Нажмите на <mark style="color:yellow;">Добавить</mark>
 
-{% hint style="info" %}
-Операция на связку пользователя и соревнования доступна из [интерфейса ](broken-reference)в том числе
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-{% openapi-operation spec="doctorixx-api" path="/api/users/link" method="post" %}
-[Broken link](broken-reference)
-{% endopenapi-operation %}
+{% step %}
+### Создайте пользователя
+
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+
+> По кнопке "Генерировать будет доступен  генератор паролей"
+>
+> ![](<../../.gitbook/assets/image (93).png>)
+{% endstep %}
+{% endstepper %}

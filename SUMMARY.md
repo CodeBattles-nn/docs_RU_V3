@@ -7,6 +7,7 @@
 * [Интерфейс участника](obzor/interfeis-uchastnika.md)
 * [Интерфейс администратора](obzor/interfeis-administratora/README.md)
   * [Задачи](obzor/interfeis-administratora/zadachi.md)
+  * [Пользователи](obzor/interfeis-administratora/polzovateli.md)
   * [Чекеры](obzor/interfeis-administratora/chekery.md)
   * [Соревнования](obzor/interfeis-administratora/sorevnovaniya.md)
 
