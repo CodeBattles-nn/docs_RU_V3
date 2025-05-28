@@ -43,6 +43,7 @@
 
 * [Архитектура](kak-rabotaet-sistema/arkhitektura.md)
 * [Безопасность](kak-rabotaet-sistema/bezopasnost.md)
+* [Метрики строк кода](kak-rabotaet-sistema/metriki-strok-koda.md)
 
 ## API
 
