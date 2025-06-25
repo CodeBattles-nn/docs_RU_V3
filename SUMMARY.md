@@ -1,6 +1,7 @@
 # Table of contents
 
 * [О системе V3](README.md)
+* [Contribution Guidelines](contribution-guidelines.md)
 
 ## Обзор
 
