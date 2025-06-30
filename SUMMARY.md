@@ -24,6 +24,7 @@
 
 ## Инструкции
 
+* [Смена языка](instrukcii/smena-yazyka.md)
 * [Соревнование](instrukcii/sorevnovanie/README.md)
   * [Создание соревнования](instrukcii/sorevnovanie/sozdanie-sorevnovaniya.md)
   * [Редактирование чекеров соревнования](instrukcii/sorevnovanie/redaktirovanie-chekerov-sorevnovaniya.md)
@@ -33,6 +34,7 @@
   * [Добавить задачу](instrukcii/zadachi/dobavit-zadachu.md)
   * [Изменить задачу](instrukcii/zadachi/izmenit-zadachu.md)
   * [Удалить задачу](instrukcii/zadachi/udalit-zadachu.md)
+  * [Импорт из системы Polygon](instrukcii/zadachi/import-iz-sistemy-polygon.md)
 * [Пользователи](instrukcii/polzovateli/README.md)
   * [Регистрация пользователей](instrukcii/polzovateli/registraciya-polzovatelei.md)
 * [Чекеры](instrukcii/chekery/README.md)

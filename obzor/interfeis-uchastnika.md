@@ -6,9 +6,9 @@
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Соревнования участника</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Задачи сореванования</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Задачи сореванования</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Просмотр задачи 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Просмотр задачи 1</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Просмотр задачи 2</p></figcaption></figure>
 

@@ -26,8 +26,4 @@
 
 <figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
-
-{% step %}
-
-{% endstep %}
 {% endstepper %}
